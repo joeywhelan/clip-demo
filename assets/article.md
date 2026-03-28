@@ -1,6 +1,6 @@
 ![cover image](cover600x322.jpg)
 
-# Elastic Inference Service - Jina ClipV2
+# Photo-to-Product Search: Multi-Modal Embeddings with Jina CLIP v2 on EIS
 *Demonstration of Jina ClipV2 on EIS*
 
 In this post, I demonstrate configuration and use of the Jina ClipV2 multi-modal embedder in a hardware store use case.  This model was recently released on the [Elastic Inference Service](https://www.elastic.co/docs/explore-analyze/elastic-inference/eis) (EIS). 
