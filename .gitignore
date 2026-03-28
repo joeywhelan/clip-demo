@@ -39,6 +39,3 @@ override.tf.json
 
 .venv
 .env
-
-images/
-metadata.csv

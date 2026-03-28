@@ -1,0 +1,22 @@
+filename,name,type,description,aisle,bin,image_url
+hex_bolt_1.jpg,Hex bolt,Bolt,Six-sided head bolt for heavy-duty fastening with a nut,3,A12,https://upload.wikimedia.org/wikipedia/commons/a/a6/Bolt.jpg
+hex_bolt_2.jpg,Hex bolt,Bolt,Six-sided head bolt for heavy-duty fastening with a nut,3,A12,https://upload.wikimedia.org/wikipedia/commons/3/36/Bolts.jpg
+carriage_bolt_1.jpg,Carriage bolt,Bolt,Round-head bolt with square neck to prevent rotation,3,B04,https://upload.wikimedia.org/wikipedia/commons/d/d4/AFS_-_fasteners_picture.JPG
+carriage_bolt_2.jpg,Carriage bolt,Bolt,Round-head bolt with square neck to prevent rotation,3,B04,https://upload.wikimedia.org/wikipedia/commons/5/59/Bolds_in_the_box.jpg
+lag_screw_1.jpg,Lag screw,Screw,Heavy hex-head screw for wood-to-wood or wood-to-masonry,4,A01,https://upload.wikimedia.org/wikipedia/commons/c/cb/Din_571.jpg
+lag_screw_2.jpg,Lag screw,Screw,Heavy hex-head screw for wood-to-wood or wood-to-masonry,4,A01,https://upload.wikimedia.org/wikipedia/commons/7/7a/Lag_screw.jpg
+lag_screw_3.jpg,Lag screw,Screw,Heavy hex-head screw for wood-to-wood or wood-to-masonry,4,A01,https://upload.wikimedia.org/wikipedia/commons/e/ea/Fetter-thread_lag_screw_with_full_point.jpg
+lag_screw_4.png,Lag screw,Screw,Heavy hex-head screw for wood-to-wood or wood-to-masonry,4,A01,https://upload.wikimedia.org/wikipedia/commons/a/a5/Lag_bolt_screw_-_Din_571_%28edited%29.png
+eye_bolt_1.jpg,Eye bolt,Bolt,Bolt with a looped head for attaching cables or ropes,3,C07,https://upload.wikimedia.org/wikipedia/commons/7/71/Eye_bolt.jpg
+eye_bolt_2.jpg,Eye bolt,Bolt,Bolt with a looped head for attaching cables or ropes,3,C07,https://upload.wikimedia.org/wikipedia/commons/4/49/Eyebolt.jpg
+phillips_screw_1.jpg,Phillips screw,Screw,Cross-head screw for general purpose fastening,4,B15,https://upload.wikimedia.org/wikipedia/commons/0/0c/Phillips_screw.jpg
+phillips_screw_2.jpg,Phillips screw,Screw,Cross-head screw for general purpose fastening,4,B15,https://upload.wikimedia.org/wikipedia/commons/b/b8/Screw.jpg
+flat_head_screw_1.jpg,Flat head screw,Screw,Countersunk screw that sits flush with the surface,4,B22,https://upload.wikimedia.org/wikipedia/commons/a/a4/A_screw_01.JPG
+flat_head_screw_2.jpg,Flat head screw,Screw,Countersunk screw that sits flush with the surface,4,B22,https://upload.wikimedia.org/wikipedia/commons/6/6f/An_old_and_rusted_screw_%28original%29.jpg
+hex_nut_1.jpg,Hex nut,Nut,Six-sided nut used with a matching bolt,5,A03,https://upload.wikimedia.org/wikipedia/commons/8/8f/Bolt_and_Nut_2018.jpg
+hex_nut_2.jpg,Hex nut,Nut,Six-sided nut used with a matching bolt,5,A03,https://upload.wikimedia.org/wikipedia/commons/a/a2/Bolt_nut.jpg
+hex_nut_3.jpg,Hex nut,Nut,Six-sided nut used with a matching bolt,5,A03,https://upload.wikimedia.org/wikipedia/commons/3/3f/Nuts_and_bolts.jpg
+wing_nut_1.jpg,Wing nut,Nut,Hand-tightenable nut with two wings for tool-free use,5,A09,https://upload.wikimedia.org/wikipedia/commons/d/df/Wingnut.jpg
+wing_nut_2.jpg,Wing nut,Nut,Hand-tightenable nut with two wings for tool-free use,5,A09,https://upload.wikimedia.org/wikipedia/commons/3/30/Wing_nuts.jpg
+wing_nut_3.jpg,Wing nut,Nut,Hand-tightenable nut with two wings for tool-free use,5,A09,https://upload.wikimedia.org/wikipedia/commons/1/1c/Wingnuts.jpg
+drywall_anchor_1.jpg,Drywall anchor,Anchor,Fastener that secures screws in drywall without a stud,6,A18,https://upload.wikimedia.org/wikipedia/commons/1/1e/6er_Spreizd%C3%BCbel1647.JPG
