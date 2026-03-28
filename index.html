@@ -372,7 +372,7 @@
 <div class="slides">
 
 <!-- Slide 1: Title -->
-<section class="title-slide" data-background-image="cover.png" data-background-size="cover" data-background-opacity="0.3">
+<section class="title-slide" data-background-image="assets/cover.png" data-background-size="cover" data-background-opacity="0.3">
   <h1>Multi-Modal Search with<br>Jina ClipV2 on EIS</h1>
   <p class="subtitle">Hardware Store Product Search Demo</p>
   <p class="author">Joey Whelan</p>
@@ -414,7 +414,7 @@
 <!-- Slide 4: Architecture Overview -->
 <section>
   <h2>Architecture Overview</h2>
-  <img src="arch.jpg" alt="Architecture diagram" class="arch-img">
+  <img src="assets/arch.jpg" alt="Architecture diagram" class="arch-img">
   <p style="font-size:0.65em; color: var(--elastic-gray); margin-top:12px;">
     <strong>Client</strong> &larr; Ingest/Query &rarr; <strong>Elastic Serverless</strong> &larr; GPU Embedding &rarr; <strong>EIS (Jina ClipV2)</strong>
   </p>
@@ -445,27 +445,27 @@
   <p style="font-size:0.75em;">Synthetic hardware store catalog &mdash; fasteners from Wikimedia Commons<br>with generated product metadata (name, description, aisle, bin)</p>
   <div class="image-grid">
     <div>
-      <img src="../images/hex_bolt_1.jpg" alt="Hex Bolt">
+      <img src="images/hex_bolt_1.jpg" alt="Hex Bolt">
       <div class="label">Hex Bolt</div>
     </div>
     <div>
-      <img src="../images/lag_screw_1.jpg" alt="Lag Screw">
+      <img src="images/lag_screw_1.jpg" alt="Lag Screw">
       <div class="label">Lag Screw</div>
     </div>
     <div>
-      <img src="../images/wing_nut_1.jpg" alt="Wing Nut">
+      <img src="images/wing_nut_1.jpg" alt="Wing Nut">
       <div class="label">Wing Nut</div>
     </div>
     <div>
-      <img src="../images/eye_bolt_1.jpg" alt="Eye Bolt">
+      <img src="images/eye_bolt_1.jpg" alt="Eye Bolt">
       <div class="label">Eye Bolt</div>
     </div>
     <div>
-      <img src="../images/phillips_screw_1.jpg" alt="Phillips Screw">
+      <img src="images/phillips_screw_1.jpg" alt="Phillips Screw">
       <div class="label">Phillips Screw</div>
     </div>
     <div>
-      <img src="../images/hex_nut_1.jpg" alt="Hex Nut">
+      <img src="images/hex_nut_1.jpg" alt="Hex Nut">
       <div class="label">Hex Nut</div>
     </div>
   </div>
@@ -530,7 +530,7 @@
 <section>
   <h2>Demo: Image Search</h2>
   <p style="font-size:0.7em;">Query: upload <code>wing_nut_1.jpg</code> &rarr; base64 &rarr; EIS embedding &rarr; kNN (k=3)</p>
-  <img src="result-1.png" alt="Image search results" class="result-img">
+  <img src="assets/result-1.png" alt="Image search results" class="result-img">
   <p style="font-size:0.6em; margin-top:12px;">
     <span class="callout">Key:</span> Visual similarity matching works <strong>without any text metadata</strong>
   </p>
@@ -540,7 +540,7 @@
 <section>
   <h2>Demo: Text Search (Cross-Modal)</h2>
   <p style="font-size:0.7em;">Query: <code>"eye bolt"</code> &mdash; text embedding compared against <strong>image</strong> embeddings</p>
-  <img src="result-2.png" alt="Text search results" class="result-img">
+  <img src="assets/result-2.png" alt="Text search results" class="result-img">
   <p style="font-size:0.6em; margin-top:12px;">
     <span class="callout">Key:</span> The model <strong>bridges the semantic gap</strong> between language and vision
   </p>
