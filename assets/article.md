@@ -3,16 +3,14 @@
 # Photo-to-Product Search: Multi-Modal Embeddings with Jina CLIP v2 on EIS
 *Demonstration of Jina ClipV2 on EIS*
 
-In this post, I demonstrate configuration and use of the Jina ClipV2 multi-modal embedder in a hardware store use case.  This model was recently released on the [Elastic Inference Service](https://www.elastic.co/docs/explore-analyze/elastic-inference/eis) (EIS). 
+In this post, I demonstrate the configuration and use of the Jina ClipV2 multi-modal embedder in a hardware store use case.  This model was recently released on the [Elastic Inference Service](https://www.elastic.co/docs/explore-analyze/elastic-inference/eis) (EIS). 
 
 ## Why multi-modal embeddings?
-For this scenario - A customer can provide a photo or describe what they're looking for in plain English and get matched to the right product and location inside the store.  That's the value of a shared embedding space for text and images.     
+In this scenario, a customer can provide a photo or describe what they're looking for in plain English, and be matched to the right product and location in the store.  That's the value of a shared embedding space for text and images. 
 
 ---
 
 ## What This Article Covers
-
-This guide covers the following areas:
 
 - Provisioning an [Elastic Serverless](https://www.elastic.co/cloud/serverless) project via Terraform.
 - Generating a synthetic product catalog of hardware (fasteners) that includes images and textual information.
